@@ -19,8 +19,8 @@
 .h1_links{
   text-decoration: none;
   font-family: 'Aclonica', sans-serif;
-  color:#000;
-  font-size:32px;
+  color:blueviolet;
+  font-size:34px;
 }
 .sidebar > p {
     margin-top: 20px;
@@ -45,9 +45,10 @@
   text-decoration: none;
   /* font-family: 'Quicksand', sans-serif; */
   font-family: 'Comfortaa', cursive;
-  color:#000;
-  font-size: larger;
-  line-height: 1.4rem;
+  color:blue;
+  font-size: x-large;
+  line-height: 1.8rem;
+  font-weight: bold;
 }
 .sidebar-nav-icons{
     margin-bottom: 15px;
@@ -59,6 +60,7 @@
 .fa-lg{
   text-decoration: none;
   color:red;
+  size: inherit;
 }
 
 .links:hover{

@@ -12,6 +12,7 @@ class Education extends Component {
             <div className={classes.box} id="education">
                 <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2} animateOnce={true} initiallyVisible={true}>
                     <span className={classes.head}>MY JOURNEY</span>
+                    <h2 className={classes.heading}>HERE ARE SOME OF INFORMATION ON MY ACADEMIC LIFE</h2>
                     <section className={classes.container}>
                         <div className={classes.container_content}>
                             <div className={classes.row}>
@@ -23,8 +24,8 @@ class Education extends Component {
                                                     <MdWork />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Experience  <span>July(2021)-Present</span></h2>
-                                                    <p>I am currently working as <b>Software Developer Engineer</b> at <a target="_blank" href="https://www.springworks.in/"><b>Springworks</b></a> <i>(previously Springrole and Springworks is a HR technology startup that is building tools and products to simplify recruiting and help organizations engage and retain their employees)</i> and boosting my professional skills.</p>
+                                                    <h2 >Experience  <span>October (2021) - Present</span></h2>
+                                                    <p>I am currently working as <b>a Trainee Quality Assurance Engineer</b> at <a target="_blank" href="https://www.echonlabs.com/"><b>Echonlabs</b></a> and boosting my professional skills.</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -34,8 +35,8 @@ class Education extends Component {
                                                     <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Undergraduation at SLIET <span>2017-2021</span></h2>
-                                                    <p>I completed my undergraduation in CSE (Computer Science and Engineering) from <a href='http://sliet.ac.in/'>SLIET</a> with overall 82.71%.</p>
+                                                    <h2 >Undergraduate Student at Sri Jayewardenapura <span>2020 - 2023</span></h2>
+                                                    <p>I am following my degree in Bachelor of Science Honours in Information technology <a href='http://fhss.sjp.ac.lk/ict/'>in USJP.</a> </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -45,8 +46,8 @@ class Education extends Component {
                                                     <FaSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                    <h2 >Higher Education  <span>2014-2016</span></h2>
-                                                    <p>I have completed my higher education from HKIS with major subjects as Physics,Chemistry & Maths with 85% merit in CBSE board. </p>
+                                                    <h2 >Higher Education  <span>2016 - 2018</span></h2>
+                                                    <p>I have completed my higher education from KL/Gurulugomi Maha Vidyalaya with Art stream in major subjects as ICT, Economics & Sinhala. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -58,7 +59,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                     <h2 >Internship</h2>
-                                                    <p>Completed one month Internship in React Js with Internity Foundation</p>
+                                                    <p>I Completed six month Internship in Graphic Design with Nirmanee Graphic House.</p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div className={classes.timeline_icon_3 || classes.color_none}></div></div>
                                             </article>

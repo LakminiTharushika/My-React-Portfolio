@@ -14,7 +14,7 @@ class Interest extends Component {
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.web}>
                 <h3>APP Develpoment</h3>
-                <p>I also have knowledge of flutter development and have experience in building android and IOS applications. I also have live app published on Google Play Store. </p>
+                <p>I also have knowledge of react native development and have experience in building android and IOS applications. I also have live app published on Google Play Store. </p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
@@ -26,7 +26,7 @@ class Interest extends Component {
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Other's Interest</h3>
-                <p>I also have decent hand in developing website with WordPress.<br />C++, Github are my other fields of interest. Currently, I am investing my free time in Web3.js </p>
+                <p>I also have decent hand in developing website with ReactJs.<br />Python, Java, and Github are my other fields of interest. Currently, I am investing my free time to learning C language. </p>
               </div>
             </ScrollAnimation>
           </div>
