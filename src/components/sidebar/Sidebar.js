@@ -15,7 +15,7 @@ class Sidebar extends Component {
                 <h1><Link smooth to="/#start" className="h1_links">Lakmini Tharushika</Link></h1>
 
                 <img src={logo} />
-                <p style={{ color: 'black',fontSize:18, fontWeight: 'bold' }} className="gmail"><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvBffjPmxWxvfHWRHWnhTbpQgPxBxvkcnPpFpFqbhrXMCHXSJTsCXCVLsQzgRcVLpnPL" rel="opener noreferrer" target="_blank" className="fa fa-envelope"></a> laktharu8.5@gmail.com </p>
+                <p style={{ color: 'black',fontSize:18, fontWeight: 'bold' }} className="gmail"><a href="mailto:laktharu8.5@gmail.com" rel="opener noreferrer" target="_blank" className="fa fa-envelope"></a> laktharu8.5@gmail.com </p>
 
                 <ul className="sidebar-nav">
                     <li className="sidebar-nav-items"><Link smooth to="/#about" className="links">About</Link></li>
@@ -27,11 +27,11 @@ class Sidebar extends Component {
                 <div className="flip-card-back">
                     <ul className="sidebar-nav">
                         <li className="sidebar-nav-icons"> <a href="https://github.com/LakminiTharushika" rel="opener noreferrer" target="_blank" className="fa fas fa-github fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"><a href="https://www.linkedin.com/in/lakmini-tharushika-a98247216" rel="opener noreferrer" target="_blank" className="fa fas fa-linkedin fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"> <a href="https://twitter.com/login" rel="opener noreferrer" target="_blank" className="fa fas fa-twitter fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"> <a href="https://www.instagram.com/accounts/login/" rel="opener noreferrer" target="_blank" className="fa fas fa-instagram fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvBffjPmxWxvfHWRHWnhTbpQgPxBxvkcnPpFpFqbhrXMCHXSJTsCXCVLsQzgRcVLpnPL" rel="opener noreferrer" target="_blank" className="fa fas fa-envelope fa-lg"></a></li>
-                        <li className="sidebar-nav-icons"> <a href="https://www.facebook.com/" rel="opener noreferrer" target="_blank" className="fa fas fa-facebook fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"><a href="https://www.linkedin.com/in/laktharu" rel="opener noreferrer" target="_blank" className="fa fas fa-linkedin fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="#" rel="opener noreferrer" target="_blank" className="fa fas fa-twitter fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="#" rel="opener noreferrer" target="_blank" className="fa fas fa-instagram fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="mailto:laktharu8.5@gmail.com" rel="opener noreferrer" target="_blank" className="fa fas fa-envelope fa-lg"></a></li>
+                        <li className="sidebar-nav-icons"> <a href="#" rel="opener noreferrer" target="_blank" className="fa fas fa-facebook fa-lg"></a></li>
                     </ul>
                 </div>
 
